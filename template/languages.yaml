@@ -452,3 +452,12 @@
   name: log
   sources:
     - text.log
+- identifiers:
+    - AnyScript
+    - anyscript
+    - AnyScriptDoc
+    - anyscriptdoc
+  language: anyscript
+  name: anyscript
+  sources:
+    - source.anyscript
